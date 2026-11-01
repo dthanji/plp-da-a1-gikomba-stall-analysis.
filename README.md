@@ -7,11 +7,6 @@
 
 Wanjiku runs a fresh-produce stall at Gikomba Market. For two weeks she has recorded her daily sales in a notebook and kept a rough record of stock, and she wants to know how her business is doing, whether it is growing, what she should restock, and where she should focus. This project analyses her 14 days of sales and five-product stock list using core Python only (no pandas or NumPy) and ends with specific, number-backed recommendations.
 
-## How to run
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dthanji/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb)
-
-Click the badge, then choose **Runtime → Run all**.
 
 ## Top three findings
 
